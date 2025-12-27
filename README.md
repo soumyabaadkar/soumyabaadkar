@@ -17,7 +17,7 @@ I build clean, responsive user-focused web applications using modern frontend te
 
 ### TaskBuddy  
 Task management application demonstrating React components and state handling.  
-🔗 Live Demo: https://taskbuddyyy.netlify.app/
+🔗 Live Demo: https://taskbuddyyy.netlify.app/  
 📂 Repo: https://github.com/soumyabaadkar/TaskBuddy  
 
 ---
@@ -31,7 +31,7 @@ Full-stack e-commerce application built with React, Node.js, and Express.
 
 ### Interactive Portfolio Website  
 Responsive personal portfolio showcasing projects and skills.  
-🔗 Live Demo: https://interactiveportfolio-soumya.netlify.app/ 
+🔗 Live Demo: https://interactiveportfolio-soumya.netlify.app/  
 📂 Repo: https://github.com/soumyabaadkar/Interactive-Portfolio-Website  
 
 ---
@@ -41,7 +41,6 @@ UI-focused Netflix clone built using HTML and CSS.
 🔗 Live Demo: https://clonenetfix-streamverse.netlify.app/  
 📂 Repo: https://github.com/soumyabaadkar/Netflix-Clone  
 
----
 ---
 
 ## 📈 GitHub Stats
