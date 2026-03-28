@@ -29,10 +29,10 @@ Full-stack e-commerce application built with React, Node.js, and Express.
 
 ---
 
-### Interactive Portfolio Website  
-Responsive personal portfolio showcasing projects and skills.  
-🔗 Live Demo: https://interactiveportfolio-soumya.netlify.app/  
-📂 Repo: https://github.com/soumyabaadkar/Interactive-Portfolio-Website  
+### Personal Portfolio Website  
+This is my personal portfolio website, built to showcase my skills, projects, and professional profile as a Fresher. 
+🔗 Live Demo: https://myportfolio-soumya.netlify.app/  
+📂 Repo: https://github.com/soumyabaadkar/myPortfolio.git  
 
 ---
 
