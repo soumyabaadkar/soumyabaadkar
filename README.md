@@ -30,7 +30,7 @@ Full-stack e-commerce application built with React, Node.js, and Express.
 ---
 
 ### Personal Portfolio Website  
-This is my personal portfolio website, built to showcase my skills, projects, and professional profile as a Fresher. 
+This is my personal portfolio website, built to showcase my skills, projects, and professional profile as a Fresher.                      
 🔗 Live Demo: https://myportfolio-soumya.netlify.app/  
 📂 Repo: https://github.com/soumyabaadkar/myPortfolio.git  
 
