@@ -8,7 +8,8 @@ I build clean, responsive user-focused web applications using modern frontend te
 ## 💻 Skills
 
 - **Frontend:** HTML, CSS, JavaScript (ES6+), React  
-- **Backend (Basics):** Node.js, Express.js  
+- **Backend:** Node.js, Express.js
+- **Database:** MySQL, MongoDB
 - **Tools:** Git, GitHub, npm, VS Code  
 
 ---
